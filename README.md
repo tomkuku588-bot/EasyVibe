@@ -7,12 +7,13 @@ This repository hosts the public legal documents for EasyVibe.
 - `index.html`: legal document entry page
 - `privacy-policy.html`: privacy policy, with Chinese and English switching
 - `user-agreement.html`: user agreement, with Chinese and English switching
-- `.github/workflows/pages.yml`: GitHub Pages deployment workflow
+- `assets/`: shared styles and language switching script
 
 ## Public URLs
 
-After GitHub Pages deployment succeeds, use:
+This site is deployed from the `gh-pages` branch. Use:
 
+- Home: `https://tomkuku588-bot.github.io/EasyVibe/`
 - Privacy Policy: `https://tomkuku588-bot.github.io/EasyVibe/privacy-policy.html`
 - User Agreement: `https://tomkuku588-bot.github.io/EasyVibe/user-agreement.html`
 
