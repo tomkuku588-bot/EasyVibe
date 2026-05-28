@@ -1,6 +1,6 @@
-# EasyVibe Legal Pages
+# AI编程学习伴侣 Legal Pages
 
-This repository hosts the public legal documents for EasyVibe.
+This repository hosts the public legal documents for AI编程学习伴侣.
 
 ## Pages
 
